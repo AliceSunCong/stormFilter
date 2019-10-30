@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>1.8</jdk.version>
-        <storm.version>1.1.1</storm.version>
+        <storm.version>1.2.3</storm.version>
         <kafka.version>1.0.0</kafka.version>
         <junit.version>4.12</junit.version>
         <commons-lang3.version>3.7</commons-lang3.version>

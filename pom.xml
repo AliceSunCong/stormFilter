@@ -14,7 +14,7 @@
         <jdk.version>1.8</jdk.version>
         <storm.version>1.1.1</storm.version>
         <kafka.version>1.0.0</kafka.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <jedis.version>2.9.0</jedis.version>
         <slf4j-api.version>1.7.25</slf4j-api.version>
